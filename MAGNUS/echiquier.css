@@ -1,0 +1,74 @@
+.flexE{display: flex;}
+.flexR{display: flex; flex-direction: row-reverse;justify-content:flex-end;}
+
+.A8:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B8:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C8:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D8:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E8:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F8:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G8:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.H8:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.H7:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G7:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F7:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E7:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D7:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C7:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B7:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.A7:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.A6:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B6:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C6:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D6:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E6:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F6:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G6:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.H6:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.H5:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G5:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F5:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E5:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D5:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C5:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B5:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.A5:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.A4:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B4:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C4:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D4:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E4:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F4:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G4:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.H4:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.H3:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G3:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F3:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E3:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D3:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C3:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B3:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.A3:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.A2:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B2:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C2:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D2:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E2:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F2:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G2:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.H2:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+
+.H1:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.G1:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.F1:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.E1:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.D1:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.C1:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
+.B1:nth-child(1n){background-color: #f0dec7; border: 1px solid; min-width: 60px; min-height: 60px;}
+.A1:nth-child(2n){background-color: #b5876b; border: 1px solid; min-width: 60px; min-height: 60px;}
